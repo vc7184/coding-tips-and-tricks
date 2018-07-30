@@ -1,4 +1,5 @@
 //Calculate the length of string using %n format specifier
+//This method can also be applied to count the number of digits
 #include<stdio.h>
 int main()
 {
